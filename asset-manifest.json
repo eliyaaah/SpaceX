@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SpaceX/static/css/main.6591dccf.chunk.css",
+    "main.js": "/SpaceX/static/js/main.35ce8b9f.chunk.js",
+    "main.js.map": "/SpaceX/static/js/main.35ce8b9f.chunk.js.map",
+    "runtime~main.js": "/SpaceX/static/js/runtime~main.b2e78016.js",
+    "runtime~main.js.map": "/SpaceX/static/js/runtime~main.b2e78016.js.map",
+    "static/js/2.2fe82bb7.chunk.js": "/SpaceX/static/js/2.2fe82bb7.chunk.js",
+    "static/js/2.2fe82bb7.chunk.js.map": "/SpaceX/static/js/2.2fe82bb7.chunk.js.map",
+    "index.html": "/SpaceX/index.html",
+    "precache-manifest.9df3a50f8d423e5adcb7ee63e3feb2b7.js": "/SpaceX/precache-manifest.9df3a50f8d423e5adcb7ee63e3feb2b7.js",
+    "service-worker.js": "/SpaceX/service-worker.js",
+    "static/css/main.6591dccf.chunk.css.map": "/SpaceX/static/css/main.6591dccf.chunk.css.map",
+    "static/media/SpaceX-logo.jpg": "/SpaceX/static/media/SpaceX-logo.4c89d5a3.jpg",
+    "static/media/styles.scss": "/SpaceX/static/media/background.1f29971f.jpg",
+    "static/media/youtube_logo.png": "/SpaceX/static/media/youtube_logo.d40abd65.png"
+  }
+}

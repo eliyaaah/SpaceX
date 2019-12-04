@@ -4,7 +4,7 @@ SpaceX web application is built using React. It connects to SpaceX API and is ab
 
 ### Project is available on GitHub pages 
 
-URL: https://github.com/eliyaaah
+URL: https://eliyaaah.github.io/SpaceX/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

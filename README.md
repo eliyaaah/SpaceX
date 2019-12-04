@@ -1,3 +1,11 @@
+## Description
+
+SpaceX web application is built using React. It connects to SpaceX API and is able to display rocket launches for the selected year. By clicking on a rocket launch event user is able to see more details or watch a video of the launch in modal window. 
+
+### Project is available on GitHub pages 
+
+URL: https://github.com/eliyaaah
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
